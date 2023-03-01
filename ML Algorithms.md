@@ -1,4 +1,4 @@
-## Machine Learning (ML) Algorithms
+## ML Algorithms
 
 Linear regression
 
