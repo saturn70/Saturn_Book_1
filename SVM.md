@@ -5,4 +5,8 @@ Hyperplane - [If p=2] A straight  line which divides the data points into 2 part
 
 Support Vectors − Datapoints or vectors which  are closest to the hyperplane.
 
-Margin − It may be defined as the gap between two lines on the closet data points of different classes. It can be calculated as the perpendicular distance from the line to the support vectors. Large margin is considered as a good margin and small margin is considered as a bad margin.
+Margin − The distance between two lines on the closet data points of different classes. 
+
+Good Margin - The maximum distance between two support vectors are considered as a good margin 
+
+Bad Margin -  The maximum distance between two support vectors are considered as a bad margin.
