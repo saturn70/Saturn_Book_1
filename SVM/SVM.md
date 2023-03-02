@@ -1,6 +1,8 @@
 ## SVM
 SVM - Support Vector Machine.
 
+SVM is a supervised machine learning algorithm that works on both classification and regression problem statements. 
+
 Hyperplane - [If p=2] A straight  line which divides the data points into 2 parts/classes/categories.
 
 Support Vectors − Datapoints or vectors which  are closest to the hyperplane.
