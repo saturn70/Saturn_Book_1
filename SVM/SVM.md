@@ -2,12 +2,14 @@
 SVM - Support Vector Machine.
 SVM is also known as the support vector network.
 
+SVM  creates a line or a hyperplane which separates  data points into 2 parts/classes/categories.
+
 SVM is a supervised machine learning algorithm that works on both classification and regression problem statements. But mostly used in classification problem.
 
 ## SVM Classification
-Handwriting recognition, Face detection, Email classification, Gene classification.
-
-SVM  creates a line or a hyperplane which separates  data points into 2 parts/classes/categories.
+Handwriting recognition, Face detection, Email classification, Gene classification,
+Geostatistics,Inverse distance weighting,3D Reconstruction,Bioinformatics,Chemoinformatics,
+Information Extraction.
 
 
 ## Hyperplane
