@@ -1,5 +1,6 @@
 ## Regression Types
-There are 2 types of regression .
+There are 2 types of regression -
+
 1/Simple linear regression 
 
 2/Multiple linear regression
