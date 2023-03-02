@@ -9,3 +9,7 @@ The SVM provides significantly better classification accuracy than kNN.
 SVM is easier to interpret than KNN.
  
  On the other hand, Interpreting KNN is more challenging.
+ 
+ ## Training Data
+If (Trianing data > No. of features) KNN is better than SVM. 
+If (Trianing data < no. of features)SVM is better than KNN.
