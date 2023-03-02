@@ -25,7 +25,7 @@ The distance between two lines on the closet data points of different classes.
 The maximum distance between two support vectors are considered as a good margin 
 
 ## Bad Margin 
-The maximum distance between two support vectors are considered as a bad margin.
+The minimum distance between two support vectors are considered as a bad margin.
 
 
 ## Goal of SVM
