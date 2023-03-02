@@ -1,5 +1,6 @@
 ## SVM
 SVM - Support Vector Machine.
+SVM is also known as the support vector network.
 
 SVM is a supervised machine learning algorithm that works on both classification and regression problem statements. But mostly used in classification problem.
 
