@@ -6,6 +6,6 @@ We can use F1 score if two models have
 -High Precision and low Recall
 
 ## Maximum F1 Score
-If Recall = Precision F1 score is maximum
+If Recall = Precision , F1 score will maximum
 
 F1 Score = 2 * ((Precision * Recall) / (Precision + Recall))
